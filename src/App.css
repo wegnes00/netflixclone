@@ -1,4 +1,8 @@
-.App {
+.app {
+  background-color: #111;
+}
+
+/* .App {
   text-align: center;
 }
 
@@ -12,6 +16,7 @@
     animation: App-logo-float infinite 3s ease-in-out;
   }
 }
+
 
 .App-header {
   min-height: 100vh;
@@ -36,4 +41,4 @@
   100% {
     transform: translateY(0px)
   }
-}
+} */
